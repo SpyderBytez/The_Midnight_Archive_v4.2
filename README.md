@@ -1,7 +1,7 @@
 # 🌙 Midnight Archive
 A text-based adventure developed by SpyderBytez.
 
-### [Click here to play the latest version!] (https://github.com/SpyderBytez/Midnight-Archive-TextGame-V4)
+### [Click here to play the latest version!] https://spyderbytez.github.io/Midnight-Archive-TextGame-V4/
 
 ---
 ### About the Project
