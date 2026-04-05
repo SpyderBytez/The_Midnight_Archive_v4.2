@@ -9,4 +9,4 @@ I'm a solo dev building this story entirely in HTML. It’s a work in progress, 
 
 ### Support the Journey
 If you want to follow along with the development or help me keep the lights on while I write, check out my Patreon:
-👉 **[Link to your Patreon here]** - to be added
+👉 https://www.patreon.com/cw/Spyder_bytez
